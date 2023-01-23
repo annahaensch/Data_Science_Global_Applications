@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: [DHP D258]
+logo: figures/network.png
+description: [Gathering, visualizing and modeling data in context for diplomacy and global affairs.]
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://annahaensch.github.io/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
